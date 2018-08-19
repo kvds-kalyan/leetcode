@@ -1,0 +1,4 @@
+1.https://leetcode.com/discuss/interview-question/124561/Google-Phone-Interview-Question-Round-2/
+Maintain a visited set
+Do a pre-order traversal and check left child and right child to see if they are already in the visited set
+If they are,make the left or right pointer null and exit
